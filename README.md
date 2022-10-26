@@ -10,6 +10,8 @@ The purpose of this project is to analyze the Kickstarter data and see how diffe
 
 ## Analysis and Challenges
 
+From the two charts below we can see that the most successful month for theater campaigns is May. We can also see that the amount of canceled theater campaigns is relatively low compared to the amount of failed campaigns. Based on goals, we can see that zero percent of the campaigns for plays were canceled, and nearly 80% of campaigns with goals less than 1000 were funded. 
+
 ### Analysis of Outcomes Based on Launch Date
 ![Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_VS_Launch.png)
 
