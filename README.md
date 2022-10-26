@@ -35,3 +35,5 @@ The biggest challenge for me was figuring out the readme file and how to use it.
     - We aren't able to track the success rates of the plays over time, if they stayed open after they launched, or if they closed after a two week run. We    also aren't able to verify if the same commitments went into each campaign that could have attributed to their successful, failed, or canceled launched.
   
 - What are some other possible tables and/or graphs that we could create?
+
+    - If we filtered the data down further by country, it would be helpful to see a stacked bar graph of successful play launches so we could see what countries were most successful. Then we could also apply the same filter and look at failed and canceled play launches by country, to have a better understanding of where Kickstarter campaigns for plays are the most successful. 
