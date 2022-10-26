@@ -16,6 +16,8 @@ Louise wants to know how different campaigns fared in relation to their launch d
 
 ### Challenges and Difficulties Encountered
 
+The biggest challenge for me was figuring out the readme file and how to use it. As I've never used GitHub or done any sort of coding before, I was very lost. Thankfully I am in a study group, and one of the members, Tana, who had already figured out the readme file was able to assist. Between her help with the deliverable requirements and Google, I believe I am slowly learning how to utilize readme files properly. 
+
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
