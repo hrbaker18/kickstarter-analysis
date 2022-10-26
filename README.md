@@ -6,6 +6,8 @@ Louise wants to know how different campaigns fared in relation to their launch d
 
 ### Purpose
 
+The purpose of this project is to analyze the Kickstarter data and see how different campaigns fared in relation to their launch dates and funding goals. Using the Kickstarter data, campaign outcomes were visualized based on launch dates and funding goals, and below is the analysis of the two charts. 
+
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
