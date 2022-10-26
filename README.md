@@ -20,7 +20,7 @@ From the two charts below we can see that the most successful month for theater 
 
 ### Challenges and Difficulties Encountered
 
-The biggest challenge for me was figuring out the readme file and how to use it. As I've never used GitHub or done any sort of coding before, I was very lost. Thankfully I am in a study group, and one of the members, Tana, who had already figured out the readme file was able to assist. Between her help with the deliverable requirements and Google, I believe I am slowly learning how to utilize readme files properly. 
+The biggest challenge for me was figuring out the README file and how to use it. As I've never used GitHub or done any sort of coding before, I was very lost. Thankfully I am in a study group, and one of the members, Tana, who had already figured out the readme file was able to assist. Between her help with the coding and Google, I believe I am slowly learning how to utilize README files properly. Another slight issue I had was with the COUNTIFS function. With the help of a Learning Assistant, we realized I had selected the wrong column of data, which was skewing my numbers. Once the right column was selected, my numbers matched and I was able to finish the assignment properly. 
 
 ## Results
 
