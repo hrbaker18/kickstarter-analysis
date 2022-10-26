@@ -32,7 +32,7 @@ The biggest challenge for me was figuring out the README file and how to use it.
 
 - What can you conclude about the Outcomes based on Goals?
 
-    - There was a higher percentage of successful play launches than failed play launches. 
+    - There was a higher percentage of successful play launches than canceled play launches. 
   
 - What are some limitations of this dataset?
 
