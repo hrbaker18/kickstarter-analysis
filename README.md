@@ -2,6 +2,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
+Louise wants to know how different campaigns fared in relation to their launch dates and funding goals, after her play <i>Fever</i> came close to its fundraising goal in a short amount of time. The campaign outcomes have been visualized based on launched dates and funding goals, and below is the analysis of the project. 
 
 ### Purpose
 
