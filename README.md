@@ -20,15 +20,16 @@ Louise wants to know how different campaigns fared in relation to their launch d
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-    -The month of May was the most successful launch date for theater.
-    -There were more successful launches than failed or canceled launches for theater. 
+    - The month of May was the most successful launch date for theater.
+    
+    - There were more successful launches than failed or canceled launches for theater. 
 
 - What can you conclude about the Outcomes based on Goals?
 
-    -There was a higher percentage of successful play launches than failed play launches. 
+    - There was a higher percentage of successful play launches than failed play launches. 
   
 - What are some limitations of this dataset?
 
-    -We aren't able to track the success rates of the plays over time, if they stayed open after they launched, or if they closed after a two week run. We    also aren't able to verify if the same commitments went into each campaign that could have attributed to their successful, failed, or canceled launched.
+    - We aren't able to track the success rates of the plays over time, if they stayed open after they launched, or if they closed after a two week run. We    also aren't able to verify if the same commitments went into each campaign that could have attributed to their successful, failed, or canceled launched.
   
 - What are some other possible tables and/or graphs that we could create?
